@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "amplifynotes-20190309073044-authRole",
+            "UnauthRoleArn": "arn:aws:iam::846928963573:role/amplifynotes-20190309073044-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::846928963573:role/amplifynotes-20190309073044-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplifynotes-20190309073044-deployment",
+            "UnauthRoleName": "amplifynotes-20190309073044-unauthRole",
+            "StackName": "amplifynotes-20190309073044",
+            "StackId": "arn:aws:cloudformation:us-east-1:846928963573:stack/amplifynotes-20190309073044/c7b9c370-425e-11e9-913e-120261667484"
+        }
+    }
+}
